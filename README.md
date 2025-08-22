@@ -2,9 +2,9 @@
 
 A straightforward solution for using the AT Protocol and Bluesky, written in Swift.
 
-### Features
+## Features
 
-#### app.bsky
+### app.bsky
 
 - [ ] `app.bsky.actor.getPreferences`
 - [ ] `app.bsky.actor.getProfile`
@@ -62,7 +62,7 @@ A straightforward solution for using the AT Protocol and Bluesky, written in Swi
 - [ ] `app.bsky.video.getUploadLimits`
 - [ ] `app.bsky.video.uploadVideo`
 
-#### chat.bsky
+### chat.bsky
 
 - [ ] `chat.bsky.actor.deleteAccount`
 - [ ] `chat.bsky.actor.exportAccountData`
@@ -87,7 +87,7 @@ A straightforward solution for using the AT Protocol and Bluesky, written in Swi
 - [ ] `chat.bsky.moderation.getMessageContext`
 - [ ] `chat.bsky.moderation.updateActorMetadata`
 
-#### com.atproto.admin
+### com.atproto.admin
 
 - [ ] `com.atproto.admin.deleteAccount`
 - [ ] `com.atproto.admin.disableAccountInvites`
@@ -105,7 +105,7 @@ A straightforward solution for using the AT Protocol and Bluesky, written in Swi
 - [ ] `com.atproto.admin.updateAccountSigningKey`
 - [ ] `com.atproto.admin.updateSubjectStatus`
 
-#### com.atproto.identity
+### com.atproto.identity
 
 - [ ] `com.atproto.identity.getRecommendedDidCredentials`
 - [ ] `com.atproto.identity.refreshIdentity`
@@ -117,7 +117,7 @@ A straightforward solution for using the AT Protocol and Bluesky, written in Swi
 - [ ] `com.atproto.identity.submitPlcOperation`
 - [ ] `com.atproto.identity.updateHandle`
 
-#### com.atproto.label
+### com.atproto.label
 
 - [ ] `com.atproto.label.queryLabels`
 
@@ -125,7 +125,7 @@ A straightforward solution for using the AT Protocol and Bluesky, written in Swi
 
 - [ ] `com.atproto.moderation.createReport`
 
-#### com.atproto.repo
+### com.atproto.repo
 
 - [ ] `com.atproto.repo.applyWrites`
 - [ ] `com.atproto.repo.createRecord`
@@ -138,7 +138,7 @@ A straightforward solution for using the AT Protocol and Bluesky, written in Swi
 - [ ] `com.atproto.repo.putRecord`
 - [ ] `com.atproto.repo.uploadBlob`
 
-#### com.atproto.server
+### com.atproto.server
 
 - [ ] `com.atproto.server.activateAccount`
 - [ ] `com.atproto.server.checkAccountStatus`
@@ -166,7 +166,7 @@ A straightforward solution for using the AT Protocol and Bluesky, written in Swi
 - [ ] `com.atproto.server.revokeAppPassword`
 - [ ] `com.atproto.server.updateEmail`
 
-#### com.atproto.sync
+### com.atproto.sync
 
 - [ ] `com.atproto.sync.getBlob`
 - [ ] `com.atproto.sync.getBlocks`
@@ -181,3 +181,42 @@ A straightforward solution for using the AT Protocol and Bluesky, written in Swi
 - [ ] `com.atproto.sync.listRepos`
 - [ ] `com.atproto.sync.notifyOfUpdate`
 - [ ] `com.atproto.sync.requestCrawl`
+
+### tools.ozone
+
+- [ ] `tools.ozone.communication.createTemplate`
+- [ ] `tools.ozone.communication.deleteTemplate`
+- [ ] `tools.ozone.communication.listTemplates`
+- [ ] `tools.ozone.communication.updateTemplate`
+- [ ] `tools.ozone.hosting.getAccountHistory`
+- [ ] `tools.ozone.moderation.emitEvent`
+- [ ] `tools.ozone.moderation.getEvent`
+- [ ] `tools.ozone.moderation.getRecord`
+- [ ] `tools.ozone.moderation.getRecords`
+- [ ] `tools.ozone.moderation.getRepo`
+- [ ] `tools.ozone.moderation.getReporterStats`
+- [ ] `tools.ozone.moderation.getRepos`
+- [ ] `tools.ozone.moderation.getSubjects`
+- [ ] `tools.ozone.moderation.queryEvents`
+- [ ] `tools.ozone.moderation.queryStatuses`
+- [ ] `tools.ozone.moderation.searchRepos`
+- [ ] `tools.ozone.server.getConfig`
+- [ ] `tools.ozone.set.addValues`
+- [ ] `tools.ozone.set.deleteSet`
+- [ ] `tools.ozone.set.deleteValues`
+- [ ] `tools.ozone.set.getValues`
+- [ ] `tools.ozone.set.querySets`
+- [ ] `tools.ozone.set.upsertSet`
+- [ ] `tools.ozone.setting.listOptions`
+- [ ] `tools.ozone.setting.removeOptions`
+- [ ] `tools.ozone.setting.upsertOption`
+- [ ] `tools.ozone.signature.findCorrelation`
+- [ ] `tools.ozone.signature.findRelatedAccounts`
+- [ ] `tools.ozone.signature.searchAccounts`
+- [ ] `tools.ozone.team.addMember`
+- [ ] `tools.ozone.team.deleteMember`
+- [ ] `tools.ozone.team.listMembers`
+- [ ] `tools.ozone.team.updateMember`
+- [ ] `tools.ozone.verification.grantVerifications`
+- [ ] `tools.ozone.verification.listVerifications`
+- [ ] `tools.ozone.verification.revokeVerifi`
