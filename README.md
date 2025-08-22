@@ -7,7 +7,7 @@ A straightforward solution for using the AT Protocol and Bluesky, written in Swi
 ### app.bsky
 
 - [ ] `app.bsky.actor.getPreferences`
-- [ ] `app.bsky.actor.getProfile`
+- [x] `app.bsky.actor.getProfile`
 - [ ] `app.bsky.actor.getProfiles`
 - [ ] `app.bsky.actor.getSuggestions`
 - [ ] `app.bsky.actor.putPreferences`
@@ -156,7 +156,7 @@ A straightforward solution for using the AT Protocol and Bluesky, written in Swi
 - [ ] `com.atproto.server.getServiceAuth`
 - [ ] `com.atproto.server.getSession`
 - [ ] `com.atproto.server.listAppPasswords`
-- [ ] `com.atproto.server.refreshSession`
+- [x] `com.atproto.server.refreshSession`
 - [ ] `com.atproto.server.requestAccountDelete`
 - [ ] `com.atproto.server.requestEmailConfirmation`
 - [ ] `com.atproto.server.requestEmailUpdate`
