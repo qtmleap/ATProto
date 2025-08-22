@@ -64,3 +64,26 @@ A straightforward solution for using the AT Protocol and Bluesky, written in Swi
 
 #### chat.bsky
 
+- [ ] `chat.bsky.actor.deleteAccount`
+- [ ] `chat.bsky.actor.exportAccountData`
+- [ ] `chat.bsky.convo.acceptConvo`
+- [ ] `chat.bsky.convo.addReaction`
+- [ ] `chat.bsky.convo.deleteMessageForSelf`
+- [ ] `chat.bsky.convo.getConvoAvailability`
+- [ ] `chat.bsky.convo.getConvoForMembers`
+- [ ] `chat.bsky.convo.getConvo`
+- [ ] `chat.bsky.convo.getLog`
+- [ ] `chat.bsky.convo.getMessages`
+- [ ] `chat.bsky.convo.leaveConvo`
+- [ ] `chat.bsky.convo.listConvos`
+- [ ] `chat.bsky.convo.muteConvo`
+- [ ] `chat.bsky.convo.removeReaction`
+- [ ] `chat.bsky.convo.sendMessageBatch`
+- [ ] `chat.bsky.convo.sendMessage`
+- [ ] `chat.bsky.convo.unmuteConvo`
+- [ ] `chat.bsky.convo.updateAllRead`
+- [ ] `chat.bsky.convo.updateRead`
+- [ ] `chat.bsky.moderation.getActorMetadata`
+- [ ] `chat.bsky.moderation.getMessageContext`
+- [ ] `chat.bsky.moderation.updateActorMetadata`
+
