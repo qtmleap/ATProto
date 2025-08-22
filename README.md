@@ -2,7 +2,7 @@
 
 A straightforward solution for using the AT Protocol and Bluesky, written in Swift.
 
-## Features
+## [HTTP Reference](https://docs.bsky.app/docs/category/http-reference)
 
 ### app.bsky
 
