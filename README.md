@@ -147,7 +147,7 @@ A straightforward solution for using the AT Protocol and Bluesky, written in Swi
 - [ ] `com.atproto.server.createAppPassword`
 - [ ] `com.atproto.server.createInviteCode`
 - [ ] `com.atproto.server.createInviteCodes`
-- [ ] `com.atproto.server.createSession`
+- [x] `com.atproto.server.createSession`
 - [ ] `com.atproto.server.deactivateAccount`
 - [ ] `com.atproto.server.deleteAccount`
 - [ ] `com.atproto.server.deleteSession`
