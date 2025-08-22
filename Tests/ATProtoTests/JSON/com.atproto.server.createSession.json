@@ -1,0 +1,36 @@
+{
+    "did": "did:plc:ofekvg2icubab46sv3mvcnrr",
+    "didDoc": {
+        "@context": [
+            "https://www.w3.org/ns/did/v1",
+            "https://w3id.org/security/multikey/v1",
+            "https://w3id.org/security/suites/secp256k1-2019/v1"
+        ],
+        "id": "did:plc:ofekvg2icubab46sv3mvcnrr",
+        "alsoKnownAs": [
+            "at://nkb.qleap.jp"
+        ],
+        "verificationMethod": [
+            {
+                "id": "did:plc:ofekvg2icubab46sv3mvcnrr#atproto",
+                "type": "Multikey",
+                "controller": "did:plc:ofekvg2icubab46sv3mvcnrr",
+                "publicKeyMultibase": "zQ3shQUXbujqjN9fuvsP4zW9uXBiStixgWUtLBXeLLMqyoSZV"
+            }
+        ],
+        "service": [
+            {
+                "id": "#atproto_pds",
+                "type": "AtprotoPersonalDataServer",
+                "serviceEndpoint": "https://cortinarius.us-west.host.bsky.network"
+            }
+        ]
+    },
+    "handle": "nkb.qleap.jp",
+    "email": "tkgstrator@qleap.jp",
+    "emailConfirmed": true,
+    "emailAuthFactor": false,
+    "accessJwt": "eyJ0eXAiOiJhdCtqd3QiLCJhbGciOiJFUzI1NksifQ.eyJzY29wZSI6ImNvbS5hdHByb3RvLmFjY2VzcyIsInN1YiI6ImRpZDpwbGM6b2Zla3ZnMmljdWJhYjQ2c3YzbXZjbnJyIiwiaWF0IjoxNzU1ODc5OTk1LCJleHAiOjE3NTU4ODcxOTUsImF1ZCI6ImRpZDp3ZWI6Y29ydGluYXJpdXMudXMtd2VzdC5ob3N0LmJza3kubmV0d29yayJ9.ASIhJZz6WvRHJsXpR6voTbs0nhGJGV8L1eQn--TJoX93EQ-SDI4WA6t3N2H6g18M5Zi470WFyR9d1KOr8jqnsA",
+    "refreshJwt": "eyJ0eXAiOiJyZWZyZXNoK2p3dCIsImFsZyI6IkVTMjU2SyJ9.eyJzY29wZSI6ImNvbS5hdHByb3RvLnJlZnJlc2giLCJzdWIiOiJkaWQ6cGxjOm9mZWt2ZzJpY3ViYWI0NnN2M212Y25yciIsImF1ZCI6ImRpZDp3ZWI6YnNreS5zb2NpYWwiLCJqdGkiOiJSejNnb0U4ZTlwWm9SdUoxTHBZQXp4Ly9ZaEhjNm9mRlY0VDYyakpVUGpvIiwiaWF0IjoxNzU1ODc5OTk1LCJleHAiOjE3NjM2NTU5OTV9.mkjGMun2B5d-vcpBNseY6D5ZgoVqRLdTXpUTM_I_FRpeoGbHlxVBPNVzZJ2vWq4rtRGHFg77pbQReC92urhfxw",
+    "active": true
+}

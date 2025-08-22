@@ -1,0 +1,26 @@
+{
+    "did": "did:plc:ofekvg2icubab46sv3mvcnrr",
+    "handle": "nkb.qleap.jp",
+    "displayName": "NEVER KNOWS BEST",
+    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ofekvg2icubab46sv3mvcnrr/bafkreidocdpbrujf4aui4mkimd3ih2vvaadaj3ccoy4imxxp67td6ah2em@jpeg",
+    "associated": {
+        "lists": 0,
+        "feedgens": 0,
+        "starterPacks": 0,
+        "labeler": false,
+        "activitySubscription": {
+            "allowSubscriptions": "followers"
+        }
+    },
+    "viewer": {
+        "muted": false,
+        "blockedBy": false
+    },
+    "labels": [],
+    "createdAt": "2025-07-31T05:23:35.198Z",
+    "description": "美しく・強く・早く\nWebもアプリも自在に\nあなたのアイデアを動かす技術\n\nhttps://qleap.jp/",
+    "indexedAt": "2025-07-31T05:29:01.299Z",
+    "followersCount": 0,
+    "followsCount": 1,
+    "postsCount": 2
+}
